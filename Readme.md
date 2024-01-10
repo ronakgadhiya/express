@@ -142,7 +142,7 @@ $ npm test
 
 ## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
+The original author of Express is [Ronak Gadhiya](https://github.com/ronakgadhiya)
 
 The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
 
